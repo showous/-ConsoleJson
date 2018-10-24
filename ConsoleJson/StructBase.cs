@@ -18,7 +18,7 @@ namespace Schneider.Frame
 
             return cmdData;
         }
-
+		 
         protected void WriteData(string key, string value)
         {
             //"key":"","",...
